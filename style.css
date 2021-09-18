@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(53, 54, 58);
+}
+
+h1 { 
+    font-family: 'Roboto'; 
+    padding-left: 25px;
+    color:rgb(232, 234, 237);
+}
+
+h2, h4, ul {
+    padding-left: 15px;
+    color:rgb(232, 234, 237);
+}
